@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -10,7 +11,8 @@
       "id": 2
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,7 +23,23 @@
       "id": 2
     }
   ],
-  "users": [],
+   "users": [
+    {
+      "name": "yusra",
+      "email": "yusra@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "jaime",
+      "email": "jaime@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "sara",
+      "email": "sara@gmail.com",
+      "id": 3
+    }
+  ],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
